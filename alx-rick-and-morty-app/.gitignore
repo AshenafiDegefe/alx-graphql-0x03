@@ -42,8 +42,7 @@ next-env.d.ts
 eslint.config.mjs 
 styles 
 public 
-next.config.ts 
-package.json 
+next.config.ts  
 package-lock.json 
 postcss.config.mjs 
 tsconfig.json 
